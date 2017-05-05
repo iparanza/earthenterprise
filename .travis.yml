@@ -2,6 +2,8 @@ language: c++
 before-install:
   - sudo apt-get -y update
   - sudo apt-get -y install software-properties-common
+  - sudo apt-get -y install libpng12-0
+  - sudo apt-get -y install libpng12-dev
   - sudo apt-get -y install curl
   - sudo apt-get -y install gcc
   - sudo apt-get -y install g++
@@ -29,8 +31,6 @@ before-install:
   - sudo apt-get -y install libmng-dev
   - sudo apt-get -y install zlib1g-dev
   - sudo apt-get -y install libcap-dev
-  - sudo apt-get -y install libpng12-0
-  - sudo apt-get -y install libpng12-dev
   - sudo apt-get -y install freeglut3-dev
   - sudo apt-get -y install flex
   - sudo apt-get -y install libx11-dev
