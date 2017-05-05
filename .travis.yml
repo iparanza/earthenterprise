@@ -57,4 +57,4 @@ addon:
       - openssl
 git:
   lfs_skip_smudge: true
-script: build.sh
+script: ./build.sh
