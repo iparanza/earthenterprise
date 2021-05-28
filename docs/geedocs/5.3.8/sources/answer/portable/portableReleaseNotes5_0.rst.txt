@@ -51,8 +51,10 @@ Linux.
 
 -[ System Requirements ]-
 
-Note: If you plan to serve large globes from Portable Server, you
-  may also need to provide more storage, depending on their size.
+Note:
+
+  If you plan to serve large globes from Portable Server, you may also
+  need to provide more storage, depending on their size.
 
 Windows 7 or later
 
@@ -67,8 +69,10 @@ Windows 7 or later
 
    Screen: 1280x1024, "32-bit True Color."
 
-Note: We recommend using NTFS for attached storage devices hosting
-  the portable globes, especially if the ".glx" files are > 4 GB
+Note:
+
+  We recommend using NTFS for attached storage devices hosting the
+  portable globes, especially if the ".glx" files are > 4 GB
 
 Mac OS X 10.7 or later
 

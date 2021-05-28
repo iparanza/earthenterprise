@@ -25,7 +25,9 @@ Because you already defined display rules for population by county in
 the state of California in the last chapter, most of the work is
 already done.
 
-Note: If you have not completed
+Note:
+
+  If you have not completed
 
   Configuring Display Rules for Polygon Data
 
@@ -222,7 +224,9 @@ myserver.mydomainname.com/USPopulation-v001.
 
 Click the Sign In button.
 
-Warning: If you have logged in to this server with Google Earth EC
+Warning:
+
+  If you have logged in to this server with Google Earth EC
   previously, log out, clear your cache, and log back in. See
 
   Clearing the Google Earth EC cache

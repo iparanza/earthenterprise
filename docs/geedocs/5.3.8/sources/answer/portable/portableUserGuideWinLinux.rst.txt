@@ -38,11 +38,13 @@ within seconds, and then you can launch a web browser to display one
 of the portable globes or maps that has been saved to the GEE Portable
 "data" directory.
 
-Note: You can also connect to a portable globe or map with the
-  Google Earth Enterprise Client (Google Earth EC). The Google Earth
-  Plug-in for viewing a globe in the browser is now obsolete, but if
-  you still have a copy of the plug-in and a browser that supports it,
-  you can use it to connect to a Portable Server.
+Note:
+
+  You can also connect to a portable globe or map with the Google
+  Earth Enterprise Client (Google Earth EC). The Google Earth Plug-in
+  for viewing a globe in the browser is now obsolete, but if you still
+  have a copy of the plug-in and a browser that supports it, you can
+  use it to connect to a Portable Server.
 
 -[ Portable globe and maps ]-
 
@@ -100,8 +102,10 @@ Ubuntu 14.04 LTS and 16.04 LTS
 Refer to the Portable Server on Earth Enterprise Wiki for build,
 install, and run instructions.
 
-Note: Before you install an upgrade, back up the contents of your
-  "data" directory.
+Note:
+
+  Before you install an upgrade, back up the contents of your "data"
+  directory.
 
 Ther are currently no OS packages or installers and uninstallers for
 Portable server. The installation procedure is to build it on the OS
@@ -109,10 +113,12 @@ distribution you want to use it on as a file archive. You can extract
 the contents of the archive in whatever location you like, then
 execute the server from that location.
 
-Note: The Google Earth Plug-in is not supported any longer, so you
-  cannot view globes (".glb" or ".glc" files) in your browser (unless
-  you happen to have a copy of the old plug-in and a browser that can
-  run it on Windows or Mac OS). You can, however, view maps (".glm"
+Note:
+
+  The Google Earth Plug-in is not supported any longer, so you cannot
+  view globes (".glb" or ".glc" files) in your browser (unless you
+  happen to have a copy of the old plug-in and a browser that can run
+  it on Windows or Mac OS). You can, however, view maps (".glm"
   files). You can also use your Linux machine to serve 3D globes that
   you can view from Linux, Mac, or Windows machines that are connected
   to the Linux server.
@@ -195,8 +201,10 @@ accept_all_requests True to your portable.cfg file.  Visit the
 Portable Server administration page, open a globe or map, and click on
 the broadcast icon (Broadcast globe icon).
 
-Note: By default, broadcasting is off and cannot be turned on via an
-  http call to the API. This feature is controlled by the
+Note:
+
+  By default, broadcasting is off and cannot be turned on via an http
+  call to the API. This feature is controlled by the
   "disable_broadcasting" flag, which is set to "True" in
   "portable.cfg". However, if you set "accept_all_requests" to "True"
   in "portable.cfg", then broadcasting is enabled, regardless of the
@@ -239,7 +247,9 @@ To access either of the files, enter the URL in your browser:
 
    "http://localhost:9335/local/preview/developers/hello_maps.html"
 
-Note: Although it is possible to configure GEE Portable to display
+Note:
+
+  Although it is possible to configure GEE Portable to display
   multiple maps at the same time, this is not recommended or
   supported. The additional configuration requires you to build the
   map to reference a specific port number, which means you would have

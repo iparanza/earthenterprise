@@ -29,10 +29,14 @@ Places
 
  plug-in and return a merged set.
 
-Note: Google Maps API and Places API access services over the
-  internet, and require licenses to use.
+Note:
 
-Note: You will need some familiarity with Python to work with custom
+  Google Maps API and Places API access services over the internet,
+  and require licenses to use.
+
+Note:
+
+  You will need some familiarity with Python to work with custom
   search plug-ins.
 
 Configure search queries for Google Earth EC and Google Maps
@@ -50,9 +54,10 @@ Must return valid KML to Google Earth EC.
 
 Must return valid JSONP in the specified structure.
 
-Warning: Because search tabs are returned as JSONP, they must
-  originate from the same server as the HTML page containing the 2D
-  map.
+Warning:
+
+  Because search tabs are returned as JSONP, they must originate from
+  the same server as the HTML page containing the 2D map.
 
 -[ Access Search Plug-ins ]-
 

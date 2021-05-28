@@ -264,7 +264,9 @@ pushing version 4 of the database:
 "geserveradmin --stream_server_url http://earth.int --pushdb
 /gevol/assets/Databases/GoogleEarth.kdatabase/gedb.kda/ver004/gedb"
 
-   Tip: Instead of using <code>geserveradmin --adddb/pushdb</code>
+   Tip:
+
+     Instead of using <code>geserveradmin --adddb/pushdb</code>
      commands, you can push the database directly from Fusion. See
 
      Push and publish databases

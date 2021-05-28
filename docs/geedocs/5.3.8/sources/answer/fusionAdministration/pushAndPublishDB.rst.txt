@@ -61,9 +61,11 @@ Click Push. Google Earth Enterprise Fusion pushes the database to
 Google Earth Enterprise Server, and displays a success message when it
 is done.
 
-Tip: If you get an error message, contact your Google Earth
-  Enterprise Server administrator for help, or check Troubleshooting
-  Push issues for more information.
+Tip:
+
+  If you get an error message, contact your Google Earth Enterprise
+  Server administrator for help, or check Troubleshooting Push issues
+  for more information.
 
 -[ Publish databases ]-
 

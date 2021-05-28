@@ -13,7 +13,9 @@ suites
  of results so that you can quickly review the status of Fusion, GEE
 Server, as well as see the output of other tests that you write.
 
-Tip: You can also run geecheck from the command line. In GEE 4.4 and
+Tip:
+
+  You can also run geecheck from the command line. In GEE 4.4 and
   earlier versions, geecheck runs from the command line only.
 
 How geecheck works

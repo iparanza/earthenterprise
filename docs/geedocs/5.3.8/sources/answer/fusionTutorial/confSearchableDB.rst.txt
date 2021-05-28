@@ -94,7 +94,9 @@ SFHighways database with the associated SFNeighborhoods search tab.
 
 Launch Google Earth EC and log in to your server.
 
-Warning: If you have logged in to this server with Google Earth EC
+Warning:
+
+  If you have logged in to this server with Google Earth EC
   previously, log out, clear your cache, and log back in. See
 
   Clearing the Google Earth EC cache

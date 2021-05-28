@@ -128,13 +128,14 @@ folder you created in the previous chapter.
 
 Enter the name BlueMarble for the resource, and click Save.
 
-   Note: Your system administrator should have configured a tutorial
-     environment for you to work on the tutorial lessons, keeping your
-     practice data separate from your live production data. If you
-     encounter an error message that tells you that a tutorial source
-     file is not readable or you cannot save a resource, contact your
-     system administrator or refer to the
+Note:
 
+     Your system administrator should have configured a
+     tutorial environment for you to work on the tutorial lessons,
+     keeping your practice data separate from your live production
+     data. If you encounter an error message that tells you that a
+     tutorial source file is not readable or you cannot save a
+     resource, contact your system administrator or refer to the
      Google Earth Enterprise Administration Guide
 
       and
@@ -148,7 +149,9 @@ Enter the name BlueMarble for the resource, and click Save.
      with an asset for now, you can close it and get it out of the
      way.
 
-Warning: Caution:
+Warning:
+
+  Caution:
 
    When you are defining assets for your live production system, it is
   important to remember that you cannot delete or edit asset names
@@ -401,9 +404,11 @@ Asset Manager.
 As with imagery resources, in this exercise, you will build the
 terrain resources right away.
 
-Note: The WorldTopography terrain resource is quite large and could
-  take up to 30 minutes to build, depending on the speed of your CPU.
-  It is a good idea to start this exercise close to lunch time or just
+Note:
+
+  The WorldTopography terrain resource is quite large and could take
+  up to 30 minutes to build, depending on the speed of your CPU. It is
+  a good idea to start this exercise close to lunch time or just
   before you attend a meeting, so it can build while you are busy
   doing something else.
 

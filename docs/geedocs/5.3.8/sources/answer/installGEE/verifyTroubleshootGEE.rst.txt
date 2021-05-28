@@ -62,10 +62,12 @@ Started
  notice, which appears in the log for each time you started the system
 manager.
 
-Note: If you see a "Connection Refused" message when running the
-  "getop" command, but do not see any error messages in the log file,
-  ensure that the log directory is writable by Google Earth Enterprise
-  Fusion users.
+Note:
+
+  If you see a "Connection Refused" message when running the "getop"
+  command, but do not see any error messages in the log file, ensure
+  that the log directory is writable by Google Earth Enterprise Fusion
+  users.
 
 Likewise, if Google Earth Enterprise Server fails to run, you can try
 stopping and restarting it, which resolves most problems.

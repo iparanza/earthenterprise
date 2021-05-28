@@ -116,8 +116,10 @@ maxlevel
 
 level
 
-Warning: Deprecated in release GEE 5.2.5 and higher. Use "--
-  maxleveloverride" instead.
+Warning:
+
+  Deprecated in release GEE 5.2.5 and higher. Use "--maxleveloverride"
+  instead.
 
 Optional
 
@@ -226,8 +228,10 @@ maxlevel
 
 level
 
-Warning: Deprecated in release GEE 5.2.5 and higher. Use "--
-  maxleveloverride" instead.
+Warning:
+
+  Deprecated in release GEE 5.2.5 and higher. Use "--maxleveloverride"
+  instead.
 
 Optional
 
@@ -340,7 +344,9 @@ chown
 
 To add volume definitions or edit existing volume definitions.
 
-Tip: You must run this command as root. Except for the
+Tip:
+
+  You must run this command as root. Except for the
 
   -\-listvolumes
 
@@ -404,7 +410,9 @@ Optional
 
 . Creates a new asset root. Specify the path to the new asset root.
 
-Note: If you omit the path, the system creates a new asset root in
+Note:
+
+  If you omit the path, the system creates a new asset root in
   "/gevol/assets".
 
 -\-
@@ -435,8 +443,10 @@ permissions, ownership, missing ID files, etc.). When you run this
 command, the tool auto-detects the problems that need to be repaired
 and fixes them.
 
-Warning: Do not use this command unless you see a system message
-  instructing you to do so.
+Warning:
+
+  Do not use this command unless you see a system message instructing
+  you to do so.
 
 -\-
 
@@ -518,7 +528,9 @@ To specify the path where you want to push databases for publishing
 and serving with the current Google Earth Enterprise Server. Follow
 the prompts.
 
-Note: You must run this command as root.
+Note:
+
+  You must run this command as root.
 
 -[ Example ]-
 
@@ -559,14 +571,18 @@ needed when the publish root was created or modified by a user other
 than the default Apache user, such as when re-using a publish root
 from a previously uninstalled version of GEE.
 
-Warning: For large publish roots the -\-chown option can
-  significantly increase the running time of geconfigurepublishroot.
+Warning:
 
-Warning: Do not create more than one publish root for a single asset
-  root. That configuration produces unpredictable or undesirable
-  results, including the inability to push at all from that asset
-  root. You cannot push the same database multiple times to different
-  publish roots on the same server.
+  For large publish roots the -\-chown option can significantly
+  increase the running time of geconfigurepublishroot.
+
+Warning:
+
+  Do not create more than one publish root for a single asset root.
+  That configuration produces unpredictable or undesirable results,
+  including the inability to push at all from that asset root. You
+  cannot push the same database multiple times to different publish
+  roots on the same server.
 
 -[ gecutter ]-
 
@@ -589,10 +605,12 @@ Cutter, you launch it from the Settings menu in the GEE Server admin
 console. You can also launch the Cutter directly from
 "http://myserver.com/cutter".
 
-Note: The default admin security does not apply to the Cutter, so
-  although it provides security if you try to launch the Cutter from
-  the Admin console Settings menu, it does not block direct access to
-  the Cutter via the URL. If you need Cutter security, you must add it
+Note:
+
+  The default admin security does not apply to the Cutter, so although
+  it provides security if you try to launch the Cutter from the Admin
+  console Settings menu, it does not block direct access to the Cutter
+  via the URL. If you need Cutter security, you must add it
   separately. See
 
   Ports
@@ -613,7 +631,9 @@ Create Portable Globes and Maps
 
 -[ gedisconnectedclean ]-
 
-Warning: Deprecated in release GEE 4.4 and higher.
+Warning:
+
+  Deprecated in release GEE 4.4 and higher.
 
 gedisconnectedclean
 
@@ -670,7 +690,9 @@ Optional
 
 -[ gedisconnectedpublish ]-
 
-Warning: Deprecated in release GEE 4.4 and higher. Use
+Warning:
+
+  Deprecated in release GEE 4.4 and higher. Use
 
   geserveradmin --publishdb
 
@@ -719,9 +741,11 @@ Required
 
 -[ gedisconnectedreceive ]-
 
-Warning: Deprecated in version 4.0. "gedisconnectedreceive" is
-  required only when the disconnected database was sent with an older
-  (pre 4.0) version of Fusion.
+Warning:
+
+  Deprecated in version 4.0. "gedisconnectedreceive" is required only
+  when the disconnected database was sent with an older (pre 4.0)
+  version of Fusion.
 
 gedisconnectedreceive
 
@@ -762,8 +786,10 @@ Required
 . Specify the directory that contains the files to be copied. This is
 typically the mount point of a hard drive.
 
-Note: The "gedisconnectedreceive" command will create an asset tree
-  that mirrors the asset tree of the Fusion system that built the
+Note:
+
+  The "gedisconnectedreceive" command will create an asset tree that
+  mirrors the asset tree of the Fusion system that built the
   database.The "gedisconnectedreceive" command will copy data to the
   mock asset root if the input folder is on a separate volume than the
   mock asset root. Links to the input folder to the mock asset root
@@ -1047,8 +1073,10 @@ maxlevel
 
 level
 
-Warning: Deprecated in release GEE 5.2.5 and higher. Use "--
-  maxleveloverride" instead.
+Warning:
+
+  Deprecated in release GEE 5.2.5 and higher. Use "--maxleveloverride"
+  instead.
 
 Optional
 
@@ -1155,8 +1183,10 @@ maxlevel
 
 level
 
-Warning: Deprecated in release GEE 5.2.5 and higher. Use "--
-  maxleveloverride" instead.
+Warning:
+
+  Deprecated in release GEE 5.2.5 and higher. Use "--maxleveloverride"
+  instead.
 
 Optional
 
@@ -1311,8 +1341,10 @@ maxlevel
 
 level
 
-Warning: Deprecated in release GEE 5.2.5 and higher. Use "--
-  maxleveloverride" instead.
+Warning:
+
+  Deprecated in release GEE 5.2.5 and higher. Use "--maxleveloverride"
+  instead.
 
 Optional
 
@@ -1418,8 +1450,10 @@ maxlevel
 
 level
 
-Warning: Deprecated in release GEE 5.2.5 and higher. Use "--
-  maxleveloverride" instead.
+Warning:
+
+  Deprecated in release GEE 5.2.5 and higher. Use "--maxleveloverride"
+  instead.
 
 Optional
 
@@ -1485,7 +1519,9 @@ terrain. resource_min_level is any integer between 4 and 24 inclusive.
 
 -[ gepublishdatabase ]-
 
-Warning: Deprecated in GEE 4.0.
+Warning:
+
+  Deprecated in GEE 4.0.
 
 Use "geserveradmin" to push and publish databases or use the Fusion
 GUI and
@@ -1543,9 +1579,11 @@ num
 To perform a variety of operations related to existing asset roots on
 the current machine.
 
-Tip: You must stop the system manager before using this command and
-  then start it again after you are done. You must also run this
-  command as root.
+Tip:
+
+  You must stop the system manager before using this command and then
+  start it again after you are done. You must also run this command as
+  root.
 
 -[ Example ]-
 
@@ -1750,7 +1788,9 @@ search_server_url
 
 url
 
-Warning: Deprecated. Always specify a stream server.
+Warning:
+
+  Deprecated. Always specify a stream server.
 
 -[ Server type ]-
 
@@ -1864,10 +1904,12 @@ Deletes the specified database entry from the server. Does not delete
 the actual files. (This command is similar to putting files in the
 trash on a Windows or Mac desktop. See also "--garbagecollect".)
 
-Note: If you want to delete a currently published database, you
-  first need to unpublish. (See also "--unpublish".) To list the
-  currently published databases, use the "--publisheddbs" option. (See
-  also "-- deletevh".)
+Note:
+
+  If you want to delete a currently published database, you first need
+  to unpublish. (See also "--unpublish".) To list the currently
+  published databases, use the "--publisheddbs" option. (See also "--
+  deletevh".)
 
 -[ Push databases ]-
 
@@ -1965,12 +2007,16 @@ unpublih a target path "/test":
 Each of the virtual host (VH) commands is listed below, along with its
 syntax, description, and options.
 
-Tip: With GEE 5.x, you can now set up a virtual host that provides a
+Tip:
+
+  With GEE 5.x, you can now set up a virtual host that provides a
   secure publishing point for as many databases as you associate with
   it.
 
-Caution: Publishing to virtual hosts other than the default server
-  is supported only in version 4.2 or later of Google Earth EC. If you
+Caution:
+
+  Publishing to virtual hosts other than the default server is
+  supported only in version 4.2 or later of Google Earth EC. If you
   are using version 4.0 or earlier, only databases that you publish to
   the default server can be accessed by Google Earth EC.
 
@@ -2082,8 +2128,10 @@ vh_name
 
 Permanently deletes the specified virtual host.
 
-Note: If you want to delete a virtual host, you must first unpublish
-  all currently published databases associated with it. To list the
+Note:
+
+  If you want to delete a virtual host, you must first unpublish all
+  currently published databases associated with it. To list the
   currently published databases for the virtual host you want to
   delete, use the "--publisheddbs" option. (See also "--unpublish".)
 
@@ -2104,8 +2152,10 @@ files for databases that users have deleted to free up space on the
 storage device. (This command is similar to emptying the trash on a
 Windows or Mac operating system. See also "--deletedb".)
 
-Note: Deletes only those files that are not used by other databases
-  on that server.
+Note:
+
+  Deletes only those files that are not used by other databases on
+  that server.
 
 -[ Clean up portable globes and maps registration ]-
 
@@ -2120,8 +2170,10 @@ clean portable registration information when portable files, which are
 currently published/registered, have been removed from your "/globes"
 directory.
 
-Note: The cleanup is not implemented when there are no portable
-  globes or maps in the globes directory:
+Note:
+
+  The cleanup is not implemented when there are no portable globes or
+  maps in the globes directory:
   "/opt/google/gehttpd/htdocs/cutter/globes".
 
 -[ getop ]-
@@ -2190,9 +2242,11 @@ noprompt
 To upgrade an existing asset root after installing a later version of
 the software.
 
-Note: You must run this command as root.You must stop the system
-  manager before using this command and then start it again after you
-  are done.
+Note:
+
+  You must run this command as root.You must stop the system manager
+  before using this command and then start it again after you are
+  done.
 
 -[ Example ]-
 

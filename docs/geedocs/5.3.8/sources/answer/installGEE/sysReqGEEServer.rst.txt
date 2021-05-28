@@ -15,7 +15,9 @@ Hardware Requirements
    higher preferred for Fusion GUI). You can install this graphics
    card in a separate workstation that accesses Fusion.
 
-   Note: If you plan on cutting globes, this processing can be CPU-
+   Note:
+
+     If you plan on cutting globes, this processing can be CPU-
      intensive and you may also need to plan on providing more storage
      depending on the size of the globes.
 
@@ -62,7 +64,9 @@ Software Requirements
 
    For GEE 4.4, use Google Earth EC version 6.1 or later
 
-   Note: Although older versions of Google Earth EC, i.e., 6.0 and
+   Note:
+
+     Although older versions of Google Earth EC, i.e., 6.0 and
      earlier,
 
      may

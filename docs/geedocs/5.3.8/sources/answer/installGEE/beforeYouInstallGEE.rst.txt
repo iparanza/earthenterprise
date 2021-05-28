@@ -28,8 +28,10 @@ advance before you begin the installation procedure.
 The following sections provide information about what the Google Earth
 Enterprise software requires in each of these areas.
 
-Warning: Be sure to complete all of the tasks described in these
-  sections before installing the Google Earth Enterprise software.
+Warning:
+
+  Be sure to complete all of the tasks described in these sections
+  before installing the Google Earth Enterprise software.
 
 -[ Configuring The Host Volumes ]-
 
@@ -73,8 +75,10 @@ volume naming convention because it is unlikely to conflict with
 standard Linux volume definitions. The following diagram illustrates
 this point.
 
-Note: On a single workstation that does not mount "/gevol" on a
-  network, "/gevol" is also required as a local volume definition.
+Note:
+
+  On a single workstation that does not mount "/gevol" on a network,
+  "/gevol" is also required as a local volume definition.
 
 -[ Configuring Multiple Storage Devices ]-
 
@@ -150,8 +154,10 @@ We also recommend that you accept the default volume designation for
 your asset root during installation ("/gevol/assets"), unless that
 name conflicts with your established naming conventions.
 
-Note: we recommend that you dedicate a network-attached storage
-  device (NAS) for your asset root.
+Note:
+
+  we recommend that you dedicate a network-attached storage device
+  (NAS) for your asset root.
 
 -[ Planning the Location of Your Publish Root ]-
 

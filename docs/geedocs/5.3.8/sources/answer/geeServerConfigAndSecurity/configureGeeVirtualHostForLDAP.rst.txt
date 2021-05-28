@@ -16,7 +16,9 @@ OpenLDAP
 
  documentation.
 
-Tip: This article explains how to configure a virtual host for LDAP
+Tip:
+
+  This article explains how to configure a virtual host for LDAP
   authentication using GEE Server 5.x.
 
 -[ To configure a GEE virtual host for LDAP authentication: ]-
@@ -107,6 +109,8 @@ mod_auth_basic
 
  documentation.
 
-Tip: To troubleshoot any connection issues, begin by checking the
-  logs on the LDAP server to make sure GEE server is correctly making
+Tip:
+
+  To troubleshoot any connection issues, begin by checking the logs on
+  the LDAP server to make sure GEE server is correctly making
   authentication requests.

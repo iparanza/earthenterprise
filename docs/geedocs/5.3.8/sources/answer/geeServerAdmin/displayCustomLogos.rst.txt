@@ -181,9 +181,11 @@ Click the Publish button to publish your database with the added
 snippet profile.  Now, when you view your database in Google Earth EC,
 your custom logo is displayed.
 
-Tip: Google Earth EC recognizes only the snippet profile settings
-  made by the first database that you connect to. This applies when
-  you are connecting to multiple databases.
+Tip:
+
+  Google Earth EC recognizes only the snippet profile settings made by
+  the first database that you connect to. This applies when you are
+  connecting to multiple databases.
 
 -[ cobrand_info snippet definition examples ]-
 

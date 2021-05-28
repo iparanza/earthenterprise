@@ -11,7 +11,9 @@ mosaic
 . This lesson guides you through the process of creating an imagery
 mosaic.
 
-Note: All of the steps in this lesson apply to terrain data as well.
+Note:
+
+  All of the steps in this lesson apply to terrain data as well.
 
 Create an Imagery Resource
 

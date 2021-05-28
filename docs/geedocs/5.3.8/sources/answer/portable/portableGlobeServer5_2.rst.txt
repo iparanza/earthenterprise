@@ -55,8 +55,10 @@ by one user, or can broadcast a portable globe so that multiple
 Portable Server users, and/or mobile users with compatible Android-
 based smart phones, can view the same globe.
 
-Note: The Portable Server solution can also create portable maps
-  from a 2D map source. This document uses the term
+Note:
+
+  The Portable Server solution can also create portable maps from a 2D
+  map source. This document uses the term
 
   portable globe
 
@@ -105,11 +107,13 @@ your 'area of interest.' This polygon not only defines the area that
 will display high-resolution imagery, but is also used by Fusion to
 create a localized search database.
 
-Note: The globe cutting processes are CPU and disk intensive, as
-  they are retrieving all data within the specified polygon from the
-  Earth Enterprise Server. This can affect the overall performance of
-  the Server, including slowing end-user access.To mitigate
-  performance impact to end users, you may consider:
+Note:
+
+  The globe cutting processes are CPU and disk intensive, as they are
+  retrieving all data within the specified polygon from the Earth
+  Enterprise Server. This can affect the overall performance of the
+  Server, including slowing end-user access.To mitigate performance
+  impact to end users, you may consider:
 
   Limiting the number of users with access to globe cutting.
 
@@ -128,7 +132,9 @@ line:
 
 "# geserveradmin --enable_cutter"
 
-Note: About authentication and SSL:
+Note:
+
+  About authentication and SSL:
 
    Cutting is not currently supported on globes that require end-user
   authentication, e.g., LDAP. One workaround is to allow
@@ -152,7 +158,9 @@ Globe Creator
 Select the globe you wish to cut your portable version from in the
 drop-down menu.
 
-Note: Additional options can be shown by clicking on the
+Note:
+
+  Additional options can be shown by clicking on the
 
   Advanced
 
@@ -178,10 +186,12 @@ We recommend using a descriptive name for each globe, so that others
 will know what geographic area, or what mission, the globe was created
 for.
 
-Note: Building a globe will overwrite any existing globes with the
-  same name. If multiple users are cutting globes, we recommend
-  assigning unique prefixes to each user for their globe names to
-  ensure that files are not accidentally overwritten.
+Note:
+
+  Building a globe will overwrite any existing globes with the same
+  name. If multiple users are cutting globes, we recommend assigning
+  unique prefixes to each user for their globe names to ensure that
+  files are not accidentally overwritten.
 
 -[ Drawing the polygon ]-
 
@@ -356,8 +366,10 @@ If historic imagery has been cached on the portable globe machine.
 
 Otherwise, the following error message will appear:
 
-      Note: Google Earth cannot contact the imagery server to download
-        new images.
+   Note:
+
+        Google Earth cannot contact the imagery server to download new
+        images.
 
 
         You will be able to see areas that you have been to recently,

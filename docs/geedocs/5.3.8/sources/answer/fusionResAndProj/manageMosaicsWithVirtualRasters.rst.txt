@@ -63,8 +63,10 @@ Preview
 
 Fusion can also use the virtual raster file as source.
 
-Note: "Gevirtualraster" is necessary if you are creating a custom
-  mask file for the imagery or terrain resource as there is a software
+Note:
+
+  "Gevirtualraster" is necessary if you are creating a custom mask
+  file for the imagery or terrain resource as there is a software
   requirement of one source file for one custom mask file. See
 
   Create custom masks
@@ -111,7 +113,9 @@ did/my_virtualmosaic_20140624_1/my_virtualmosaic_20140624_1.kip
 Build the new imagery resource.  $ gebuild
 Resources/Imagery/candid_my_virtualmosaic_20140624_1
 
-Tip: For more information about using virtual mosaics, see
+Tip:
+
+  For more information about using virtual mosaics, see
 
   Create virtual mosaics
 

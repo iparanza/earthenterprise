@@ -122,8 +122,10 @@ displayKeys
 
 .
 
-Tip: Places and ExampleSearch are both PostgreSQL databases so you
-  can also access them using the "psql" command. See
+Tip:
+
+  Places and ExampleSearch are both PostgreSQL databases so you can
+  also access them using the "psql" command. See
 
   PostgreSQL 9.3.5 Documentation
 

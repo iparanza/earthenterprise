@@ -36,7 +36,9 @@ will clean all previously deleted databases in /gevol/published_dbs;
 /opt/google/bin/geserveradmin --garbagecollect --server_type stream
 /opt/google/bin/geserveradmin --garbagecollect --server_type search
 
-Note: GEE 5.x does not support 2D maps in the flat (Plate Carrée)
+Note:
+
+  GEE 5.x does not support 2D maps in the flat (Plate Carrée)
   projection. If you have previously built and published a map with a
   flat projection, these databases will be marked as invalid, and you
   will not be able to perform any delete, build, push, or publish

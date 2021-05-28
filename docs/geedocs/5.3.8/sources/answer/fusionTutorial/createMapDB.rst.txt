@@ -51,8 +51,10 @@ Add flat imagery to Mercator map databases in GEE 5.1.0
 
 .
 
-Note: As an alternative to your own imagery resources, you can use
-  the Google Base Map in place of an imagery project. See
+Note:
+
+  As an alternative to your own imagery resources, you can use the
+  Google Base Map in place of an imagery project. See
 
   Using the Google Base Map
 
@@ -252,8 +254,10 @@ Mercator on the Fly
 
 Add flat imagery to Mercator map databases in GEE 5.1.0
 
-Tip: If you did not complete the tutorial lesson to create an
-  imagery project, see
+Tip:
+
+  If you did not complete the tutorial lesson to create an imagery
+  project, see
 
   Define an Imagery Project
 
@@ -438,9 +442,11 @@ Base Map. Enabling this feature connects to www.google.com, loads
 Google base map tiles through the Google Maps Javascript API V3, and
 renders your map layers on top of them.
 
-Note: As per Google's terms of service, you may need to purchase a
-  Maps for Business license if you are deploying your application in
-  an internal environment.
+Note:
+
+  As per Google's terms of service, you may need to purchase a Maps
+  for Business license if you are deploying your application in an
+  internal environment.
 
 Deploying the Google Base Map involves adding it when you build your
 map database.

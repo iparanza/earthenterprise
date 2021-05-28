@@ -40,8 +40,10 @@ Extract each archive downloaded to that location. Be sure all the
 files have read permission for all users and directories have read and
 execute permission for all users.
 
-Note: Due to a bug in the current Google Earth Enterprise Open
-  Source version, vector source files also need the write permission.
+Note:
+
+  Due to a bug in the current Google Earth Enterprise Open Source
+  version, vector source files also need the write permission.
 
 -[ Configuring the tutorial asset root and source volume ]-
 
@@ -161,8 +163,10 @@ removing the tutorial source files, asset root, and published
 databases. This section describes the best way to perform that
 cleanup.
 
-Note: Google recommends that you keep the tutorial files intact,
-  since they use very little space and can come in handy for users to
+Note:
+
+  Google recommends that you keep the tutorial files intact, since
+  they use very little space and can come in handy for users to
   practice, even after they have quite a bit of experience with Google
   Earth Enterprise Fusion.
 

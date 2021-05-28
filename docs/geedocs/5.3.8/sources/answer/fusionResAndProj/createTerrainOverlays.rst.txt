@@ -47,8 +47,10 @@ Database, blending the two terrain databases together.
 with low resolution “fill” created by the terrain overlay: ]-
 
 
-Tip: Using the base terrain as the fill for the secondary terrain
-  ensures smooth viewing transitions at the overlay borders.
+Tip:
+
+  Using the base terrain as the fill for the secondary terrain ensures
+  smooth viewing transitions at the overlay borders.
 
 -[ Creating Terrain Overlays ]-
 

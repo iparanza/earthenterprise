@@ -164,7 +164,9 @@ http://myhostname/CACountySearch.
 
 Click the Sign In button.
 
-Warning: If you have logged in to this server with Google Earth EC
+Warning:
+
+  If you have logged in to this server with Google Earth EC
   previously, log out, clear your cache, and log back in. See
 
   clearing your cache

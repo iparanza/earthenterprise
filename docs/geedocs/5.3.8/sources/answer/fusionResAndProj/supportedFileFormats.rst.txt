@@ -45,7 +45,9 @@ projection files.  TAB    TIF  Geographic coordinates and projection
 information must be accompanied by external world and projection
 files.  USGS ASCII DEM    USGS SDTS DEM
 
-Tip: Importing large imagery files?
+Tip:
+
+  Importing large imagery files?
 
    Although Fusion does not allow you to import raw imagery source
   files larger than 80 GB, you can split large resource files into

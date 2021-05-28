@@ -103,6 +103,7 @@ Connect GE Enterprise Client to http://production.
 
 Connect GE Enterprise Client to http://development.
 
-Note: During testing, you can check
-  "/opt/google/gehttpd/logs/access_log" and "error_log" to determine
-  if any errors are reported by Apache.
+Note:
+
+  During testing, you can check "/opt/google/gehttpd/logs/access_log"
+  and "error_log" to determine if any errors are reported by Apache.

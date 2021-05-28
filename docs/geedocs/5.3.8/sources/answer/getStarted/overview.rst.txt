@@ -16,9 +16,11 @@ that your users can view using Portable Server.
 
 -[ 10 Things to Know About Building and Publishing Globes & Maps ]-
 
-Tip: Here are some common tasks and key tips when working with
-  Google Earth Enterprise. To learn more, click on the references at
-  the end of each section.
+Tip:
+
+  Here are some common tasks and key tips when working with Google
+  Earth Enterprise. To learn more, click on the references at the end
+  of each section.
 
 -[ 1. Build databases with Fusion ]-
 

@@ -31,9 +31,11 @@ See the resources linked to below to learn how to edit and extend the
 
 -[ Useful resources ]-
 
-Note: Clicking any of these links connects you to a site outside
-  your network. If you are not sure if your organization allows
-  outside connections, check with your administrator first.
+Note:
+
+  Clicking any of these links connects you to a site outside your
+  network. If you are not sure if your organization allows outside
+  connections, check with your administrator first.
 
 "Hello_Maps.html" and "Hello_Earth.html" are based on the Google Maps
 API and Google Earth API. More information about these APIs is linked

@@ -24,10 +24,11 @@ Custom
 
  as the installation type.
 
-Tip: Disconnected production servers require X11 libraries,
-  including Mesa. Google Earth Enterprise Server does not require an X
-  server to be running or installed, however; only the libraries are
-  required.
+Tip:
+
+  Disconnected production servers require X11 libraries, including
+  Mesa. Google Earth Enterprise Server does not require an X server to
+  be running or installed, however; only the libraries are required.
 
 -[ Prepare a disconnected database ]-
 

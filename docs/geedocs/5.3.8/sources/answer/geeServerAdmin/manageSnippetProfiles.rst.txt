@@ -34,15 +34,18 @@ About
 
  dialog, and specifying a reverse geocoder server URL.
 
-Tip: Google Earth EC recognizes only the settings made by the first
+Tip:
+
+  Google Earth EC recognizes only the settings made by the first
   database that you connect to in Google Earth EC. This applies when
   you are connecting to multiple databases.
 
-Warning: If you are working with multiple GEE Server users on
-  multiple workstations, it is important to remember that snippet
-  profiles can be accessed by all users at the same time. Be sure to
-  coordinate with any other users to avoid overwriting snippet profile
-  settings.
+Warning:
+
+  If you are working with multiple GEE Server users on multiple
+  workstations, it is important to remember that snippet profiles can
+  be accessed by all users at the same time. Be sure to coordinate
+  with any other users to avoid overwriting snippet profile settings.
 
 Creating a snippet profile
 
@@ -64,7 +67,9 @@ Sign in with the default credentials or the username and password
 assigned to you:  Default username: geapacheuser  Default password:
 geeadmin
 
-   Note: If you do not know your username and password, contact your
+   Note:
+
+     If you do not know your username and password, contact your
      Google Earth Enterprise Server System Administrator.
 
 Click Snippet profiles to display your snippet profiles.

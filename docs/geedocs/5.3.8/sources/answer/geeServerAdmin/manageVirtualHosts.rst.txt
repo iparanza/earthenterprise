@@ -26,7 +26,9 @@ default virtual host
 
  configurations provided with GEE Server.
 
-Tip: See
+Tip:
+
+  See
 
   Configure GEE Server for SSL/HTTPS
 
@@ -40,10 +42,11 @@ Tip: See
 
    for information about all the virtual host commands.
 
-Note: You may configure a virtual server in Apache using standard
-  virtual host directives but it won’t be capable of hosting a GEE
-  database until it is registered using "geserveradmin", as described
-  in
+Note:
+
+  You may configure a virtual server in Apache using standard virtual
+  host directives but it won’t be capable of hosting a GEE database
+  until it is registered using "geserveradmin", as described in
 
   Create and register a virtual host in GEE Server
 
@@ -100,7 +103,9 @@ Apache HTTP Server 2.4 htdigest
 
 .
 
-Tip: In GEE 4.4, virtual hosts were previously called
+Tip:
+
+  In GEE 4.4, virtual hosts were previously called
 
   virtual servers
 

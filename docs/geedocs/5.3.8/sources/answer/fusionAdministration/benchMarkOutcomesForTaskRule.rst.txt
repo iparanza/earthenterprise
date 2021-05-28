@@ -6,12 +6,14 @@ various task rules to a test set of data in a similar environment. The
 results are useful in providing guidance in how task rules can improve
 GEE performance of loading assets and build times.
 
-Tip: This set of tests was designed to help assess how GEE performs
-  in a specific environment. Although certain conclusions can be drawn
-  from the test results, your results may differ. The figures
-  presented here can be used as a reference for the GEE performance
-  only. This testing was conducted with GEE 4.4 using publicly
-  available geospatial data to build a 3D database.
+Tip:
+
+  This set of tests was designed to help assess how GEE performs in a
+  specific environment. Although certain conclusions can be drawn from
+  the test results, your results may differ. The figures presented
+  here can be used as a reference for the GEE performance only. This
+  testing was conducted with GEE 4.4 using publicly available
+  geospatial data to build a 3D database.
 
 -[ GEE System Specifications ]-
 

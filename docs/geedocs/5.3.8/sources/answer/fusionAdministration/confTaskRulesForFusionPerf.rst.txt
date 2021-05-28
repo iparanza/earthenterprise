@@ -101,9 +101,11 @@ project process. For example, with eight CPUs assigned for Fusion,
 with two CPUs per imagery project task, you can have four concurrent
 imagery project tasks.
 
-Note: Assigning more than two CPUs for each imagery project task
-  does not necessarily speed up processing, so you should keep the
-  "maxNumCPU" value at 2.
+Note:
+
+  Assigning more than two CPUs for each imagery project task does not
+  necessarily speed up processing, so you should keep the "maxNumCPU"
+  value at 2.
 
 -[ Sample: ImageryPacketLevel.taskrule ]-
 

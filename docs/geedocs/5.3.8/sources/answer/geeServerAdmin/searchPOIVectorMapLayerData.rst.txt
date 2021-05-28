@@ -114,11 +114,13 @@ For example, if your query in Google Earth EC for a city name returned
 no results via the POI search plug-in, the GeoFederated search plugin
 would automatically search for that city name.
 
-Note: The POI Search option in the Publish dialog is only available
-  if you build your database with POI data as a vector resource layer.
-  If you want to perform a POI search on a database external to your
-  globe or map, e.g., on a different server, you can use the POI
-  Search tab or create your own custom search plug-in.
+Note:
+
+  The POI Search option in the Publish dialog is only available if you
+  build your database with POI data as a vector resource layer. If you
+  want to perform a POI search on a database external to your globe or
+  map, e.g., on a different server, you can use the POI Search tab or
+  create your own custom search plug-in.
 
 Once you have added the search fields, the main Search tab in Google
 Earth EC displays the POI search and includes the field(s) that you

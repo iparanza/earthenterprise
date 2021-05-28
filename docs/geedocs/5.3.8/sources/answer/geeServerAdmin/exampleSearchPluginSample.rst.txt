@@ -92,6 +92,8 @@ ExampleSearch
 
  plug-in returns polygons, but all KML geometric types are supported.
 
-Tip: Only point type query results will fly to first element; with
+Tip:
+
+  Only point type query results will fly to first element; with
   geometric types, the query result flies to a bounding box within
   which all search results are visible.

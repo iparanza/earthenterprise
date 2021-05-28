@@ -99,7 +99,9 @@ HTTPS.
 
 Restart GEE Server
 
-Note: The virtual host name “secure” is reserved for GEE Server use.
+Note:
+
+  The virtual host name “secure” is reserved for GEE Server use.
 
 -[ To add a virtual host for HTTPS serving: ]-
 
@@ -129,7 +131,9 @@ information.
 
 -[ Set your virtual host as a SSL server ]-
 
-Tip: All commands must be executed as the root user unless otherwise
+Tip:
+
+  All commands must be executed as the root user unless otherwise
   specified.
 
 -[ To set your virtual host as a SSL server: ]-

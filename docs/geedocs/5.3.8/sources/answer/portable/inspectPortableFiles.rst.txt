@@ -43,11 +43,13 @@ Get file timestamp
    2014-01-15 08:03:15
    Executing: /opt/google/bin/geportableglcpacker --layer_info="/tmp/cutter/glc_20598_1389801795.111116/earth/layer_info.txt" --output="/tmp/cutter/glc_20598_1389801795.111116/temp.glc" --make_copy``
 
-Tip: You can use the timestamp information if you need to determine
-  which version of GEE was used to create your portable globes or map.
-  This information can be useful if you use the new feature in GEE 5.x
-  that lets you cut globes and maps from existing portable files that
-  have been built using GEE 5.x only. See
+Tip:
+
+  You can use the timestamp information if you need to determine which
+  version of GEE was used to create your portable globes or map. This
+  information can be useful if you use the new feature in GEE 5.x that
+  lets you cut globes and maps from existing portable files that have
+  been built using GEE 5.x only. See
 
   Create Portable Globes and Maps
 

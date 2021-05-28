@@ -26,7 +26,9 @@ service, they are redirected to a separate Identity Provider to login.
 Once their identity has been verified, an access token is created that
 allows access the requested service.
 
-   Note: In SAML and OAuth workflows, Basic and PKI login can still
-     be used by the Identity Provider to validate the user. However,
-     the resulting access token may allow access to multiple sites or
+   Note:
+
+     In SAML and OAuth workflows, Basic and PKI login can still be
+     used by the Identity Provider to validate the user. However, the
+     resulting access token may allow access to multiple sites or
      services. This is often referred to as Single Sign-On.
